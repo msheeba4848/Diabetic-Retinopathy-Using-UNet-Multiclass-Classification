@@ -45,13 +45,17 @@ The U-Net architecture is particularly well-suited for medical image segmentatio
 - segmentation_models (for loss functions and metrics)
 - pandas (for saving and analyzing training history)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - U-Net architecture and segmentation models library for providing the tools needed for effective image segmentation.
 - TensorFlow/Keras for the deep learning framework.
 - The broader research community for advancements in diabetic retinopathy detection and medical image analysis.
+
+---
+
+## License
+
+This project is licensed under an **All Rights Reserved** license. Unauthorized use, distribution, or modification of the code is strictly prohibited. For inquiries or permission requests, please contact [sm3924@georgetown.edu or msheeba00@gmail.com].
+
 
